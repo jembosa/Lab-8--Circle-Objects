@@ -4,6 +4,7 @@
     {
         public double Radius { get; set; }
         public Circle(double radius)
+            //this.Radius = Radius   ???? Ask tomorrow
         {
             Radius = radius;
         }
